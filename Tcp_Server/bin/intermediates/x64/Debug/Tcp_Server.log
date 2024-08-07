@@ -1,0 +1,6 @@
+﻿  main.cpp
+  TCPlistener.cpp
+C:\Users\Sayed\Desktop\Cpp_Tcp\Tcp_Server\Tcp_Server\src\TCPlistener.cpp(29,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Sayed\Desktop\Cpp_Tcp\Tcp_Server\Tcp_Server\src\TCPlistener.cpp(71,63): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+  Generating Code...
+  Tcp_Server.vcxproj -> C:\Users\Sayed\Desktop\Cpp_Tcp\Tcp_Server\bin\x64\Debug\Tcp_Server.exe
