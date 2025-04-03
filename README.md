@@ -76,7 +76,3 @@ You can test the server using various CLI tools such as `netcat`.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions or feedback, please contact [omarelsayed6600@gmail.com](mailto:your.email@example.com).
